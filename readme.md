@@ -9,6 +9,8 @@ A collection of general-purpose backgrounds for use with Looney Tunes character 
 Browse the collection to find a suitable background for your Looney Tunes animation cel.
 Then download and print the image on 11x14 inch photo paper.
 
+<img src="sheet.png" alt="Contact sheet" width="800" />
+
 ## Details
 
 These background artworks were gathered from a wide range of sources. Some of the background art is sourced from digital media, while others are reinstated from poor copies of the original source material. It is important to note that the images available in this collection are not considered "restorations". While the images have undergone color correction and general clean up, the images have then been saturated to "dull" the colors thus allowing the character(s) on the animation cel to be the true hero of your artwork.
